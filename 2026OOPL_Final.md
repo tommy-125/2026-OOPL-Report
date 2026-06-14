@@ -40,15 +40,15 @@
 
 ### 遊戲畫面
 
-![title](https://media.discordapp.net/attachments/1488936307748110426/1515226677373046834/title.png?ex=6a2e3c4f&is=6a2ceacf&hm=4acf3268304ee90c2d76f03ec23eec9737f4498aca34a83159953b6c40116ae9&=&format=webp&quality=lossless&width=1198&height=934)
+![title](./pictures/title.png)
 
-![select](https://media.discordapp.net/attachments/1488936307748110426/1515226679306485780/select.png?ex=6a2e3c4f&is=6a2ceacf&hm=cac8cecfa1aa9e5dc439a8d4a9e632e6661aaf7f997b3b915ea5f7e08dd85300&=&format=webp&quality=lossless&width=1196&height=933)
+![select](./pictures/select.png)
 
-![playthrough](https://media.discordapp.net/attachments/1488936307748110426/1515226677989474364/playthrough.png?ex=6a2e3c4f&is=6a2ceacf&hm=94cdef08a3ce1ca54c408103b1b38a59c12d28c304777c1b70c98acfd27e000e&=&format=webp&quality=lossless&width=1199&height=933)
+![playthrough](./pictures/playthrough.png)
 
-![playthrough2](https://media.discordapp.net/attachments/1488936307748110426/1515226678597521478/playthrough2.png?ex=6a2e3c4f&is=6a2ceacf&hm=24b864cc08317eaf1751e7e2113cd8b87ce6ff796190b6595fb6d82cb68bda43&=&format=webp&quality=lossless&width=1204&height=936)
+![playthrough2](./pictures/playthrough2.png)
 
-![playthrough3](https://media.discordapp.net/attachments/1488936307748110426/1515226678929002546/playthrough3.png?ex=6a2e3c4f&is=6a2ceacf&hm=de53b30133ecdb810d309693d84d9e78312fd149e7d426bdffa3e2c1c774ba71&=&format=webp&quality=lossless&width=1201&height=938)
+![playthrough3](./pictures/playthrough3.png)
 
 ## 程式設計
 
