@@ -96,7 +96,7 @@ AI Agent 主要協助的部分如下：
 - 協助撰寫 midboss 與 final boss 的 pattern 檔案，例如 `Stage*MidbossPatterns.cpp`、`Stage*FinalBossPatterns.cpp` 中的 Boss 進場、非符、符卡、階段切換與死亡流程。
 - 協助整理重複的 pattern helper 與共用邏輯，例如 Boss pose 設定、座標轉換、Boss phase start、reward、timeline validation 與 config loading。
 - 協助將部分關卡資料改成 data-driven 的形式，例如 stage config、boss phase config、enemy init config、movement profile 與 timeline JSON，減少硬編碼。
-- 協助在完成 pattern 後進行調整與修正，例如 Stage5、Stage6 的 Boss 行為調整，以及 Stage4 final boss 多餘彈幕的修正。
+- 協助在完成 pattern 後進行調整與修正，例如 Boss 符卡的細節修正
 
 AI Agent 的角色主要是先打一份草稿，協助我完成大量關卡程式與重複樣板，讓我可以把更多時間放在遊戲內容規劃、實際遊玩測試與細節調整上。AI 產生的程式並不能無條件採用，仍需要由開發者自行測試，並依照測試結果修改數值或邏輯。
 
