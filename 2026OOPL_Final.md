@@ -163,3 +163,4 @@ pacman -S --needed git mingw-w64-ucrt-x86_64-gcc mingw-w64-ucrt-x86_64-cmake min
 **請先下載 [Resource](https://mega.nz/file/gJ8wVAja#DNPVvdxcQWdsat3_Lbceow-41eM-VAeiT4oiZhvVeGs)，並覆蓋到 `.\touhou-koumakyou-clone\resources`**
 
 若未放置完整資源，遊戲將無法正常遊玩！！！！！
+### 請注意：資源路徑應為 ./resources，不是 ./resuorces/resources，解壓縮後請取出裡面的資料夾，請勿直接用解壓縮產生的外層資料夾覆蓋
